@@ -337,24 +337,6 @@
 		"defname": "StandingLamp"
 	},
 	{
-		"abr": "standinglamp(red)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Red"
-	},
-	{
-		"abr": "standinglamp(green)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Green"
-	},
-	{
-		"abr": "standinglamp(blue)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Blue"
-	},
-	{
 		"abr": "sunlamp",
 		"price": 129,
 		"category": "Furniture",
@@ -2270,73 +2252,73 @@
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": 1250,
+		"price": 100,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
@@ -2425,60 +2407,6 @@
 		"defname": "WallLamp"
 	},
 	{
-		"abr": "16kbattery",
-		"price": 1758,
-		"category": "Power",
-		"defname": "Battery16k"
-	},
-	{
-		"abr": "256kbattery",
-		"price": 17775,
-		"category": "Power",
-		"defname": "Battery256k"
-	},
-	{
-		"abr": "4kbattery",
-		"price": 692,
-		"category": "Power",
-		"defname": "Battery4k"
-	},
-	{
-		"abr": "64kbattery",
-		"price": 4725,
-		"category": "Power",
-		"defname": "Battery64k"
-	},
-	{
-		"abr": "90mmflakturret",
-		"price": 2325,
-		"category": "Security",
-		"defname": "Turret_Flak"
-	},
-	{
-		"abr": "advancedholodeck",
-		"price": 3275,
-		"category": "Recreation",
-		"defname": "Holodeck_Standard"
-	},
-	{
-		"abr": "advancednightvisiongoggles",
-		"price": 683,
-		"category": "Headgear",
-		"defname": "Apparel_AdvancedNightVision"
-	},
-	{
-		"abr": "afterlifecasket",
-		"price": 3575,
-		"category": "Buildings",
-		"defname": "Ship_AvatarCasket"
-	},
-	{
-		"abr": "ags-30",
-		"price": 833,
-		"category": "Security",
-		"defname": "Turret_AGSThirty"
-	},
-	{
 		"abr": "aimanager",
 		"price": 7833,
 		"category": "Production",
@@ -2509,154 +2437,10 @@
 		"defname": "VFES_AmmoCrate"
 	},
 	{
-		"abr": "animalfeeder",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "VFE_AnimalFeeder"
-	},
-	{
-		"abr": "antigraintorpedo",
-		"price": 2500,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_Antimatter"
-	},
-	{
 		"abr": "archerytarget",
 		"price": 248,
 		"category": "Recreation",
 		"defname": "ArcheryTarget"
-	},
-	{
-		"abr": "archocat",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archocat"
-	},
-	{
-		"abr": "archoffalo",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archoffalo"
-	},
-	{
-		"abr": "archojerboa",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archojerboa"
-	},
-	{
-		"abr": "archolifepod",
-		"price": 1667,
-		"category": "Items",
-		"defname": "ArcholifePod"
-	},
-	{
-		"abr": "archolope",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archolope"
-	},
-	{
-		"abr": "archomutt",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archomutt"
-	},
-	{
-		"abr": "archopanda",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archopanda"
-	},
-	{
-		"abr": "archospider",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archospider"
-	},
-	{
-		"abr": "archostrich",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archostrich"
-	},
-	{
-		"abr": "archostrichegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchostrichFertilized"
-	},
-	{
-		"abr": "archostrichegg(unfert.)",
-		"price": 38,
-		"category": "Eggs (unfert.)",
-		"defname": "EggArchostrichUnfertilized"
-	},
-	{
-		"abr": "archotechear",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "SoSArchotechEar"
-	},
-	{
-		"abr": "archotechheart",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechHeart"
-	},
-	{
-		"abr": "archotechjaw",
-		"price": 3667,
-		"category": "Archotech",
-		"defname": "SoSArchotechJaw"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 3667,
-		"category": "Archotech",
-		"defname": "SoSArchotechKidney"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 3667,
-		"category": "Archotech",
-		"defname": "SoSArchotechLiver"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechLung"
-	},
-	{
-		"abr": "archotechnose",
-		"price": 3667,
-		"category": "Archotech",
-		"defname": "SoSArchotechNose"
-	},
-	{
-		"abr": "archotechpillaralpha",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarA"
-	},
-	{
-		"abr": "archotechpillarbeta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarB"
-	},
-	{
-		"abr": "archotechpillardelta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarD"
-	},
-	{
-		"abr": "archotechpillargamma",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarC"
 	},
 	{
 		"abr": "archotechshieldgenerator",
@@ -2665,58 +2449,10 @@
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
 	{
-		"abr": "archotechskin",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSkin"
-	},
-	{
-		"abr": "archotechspine",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSpine"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechStomach"
-	},
-	{
-		"abr": "archotechuplink",
-		"price": 8542,
-		"category": "Misc",
-		"defname": "ArchotechUplink"
-	},
-	{
-		"abr": "archothrumbo",
-		"price": 16667,
-		"category": "Animals",
-		"defname": "Archothrumbo"
-	},
-	{
-		"abr": "archotortoise",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archotortoise"
-	},
-	{
-		"abr": "archotortoiseegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchotortoiseFertilized"
-	},
-	{
 		"abr": "artillery",
 		"price": 1408,
 		"category": "Security",
 		"defname": "VFES_Turret_Artillery"
-	},
-	{
-		"abr": "astromite",
-		"price": 167,
-		"category": "Animals",
-		"defname": "Astromite"
 	},
 	{
 		"abr": "atom",
@@ -2729,30 +2465,6 @@
 		"price": 1108,
 		"category": "Oil",
 		"defname": "Autoclave"
-	},
-	{
-		"abr": "backpack",
-		"price": 181,
-		"category": "Loadbearing gear",
-		"defname": "Apparel_Backpack"
-	},
-	{
-		"abr": "ballisticshield",
-		"price": 417,
-		"category": "Shields",
-		"defname": "Apparel_BallisticShield"
-	},
-	{
-		"abr": "bascinet",
-		"price": 265,
-		"category": "Headgear",
-		"defname": "Apparel_Bascinet"
-	},
-	{
-		"abr": "basicholodeck",
-		"price": 1792,
-		"category": "Recreation",
-		"defname": "Holodeck_Basic"
 	},
 	{
 		"abr": "basicmanagerdesk",
@@ -2791,12 +2503,6 @@
 		"defname": "VFES_BearTrap"
 	},
 	{
-		"abr": "binoculars",
-		"price": 1083,
-		"category": "Ranged weapons",
-		"defname": "Gun_BinocularsRadio"
-	},
-	{
 		"abr": "bionicbladder",
 		"price": 1308,
 		"category": "Bionic",
@@ -2821,46 +2527,16 @@
 		"defname": "BirthControl"
 	},
 	{
-		"abr": "blackboard",
-		"price": 358,
-		"category": "Production",
-		"defname": "Blackboard"
-	},
-	{
-		"abr": "cargoshuttle",
-		"price": 3925,
-		"category": "Furniture",
-		"defname": "CargoShuttle"
-	},
-	{
-		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
-		"category": "Animal",
-		"defname": "ShuttleCargoRace"
-	},
-	{
 		"abr": "ceilingfan1x1",
 		"price": 184,
 		"category": "Hygiene",
 		"defname": "CeilingFanS"
 	},
 	{
-		"abr": "ceilingfan1x1(dark)",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanSDarklight"
-	},
-	{
 		"abr": "ceilingfan2x2",
 		"price": 184,
 		"category": "Hygiene",
 		"defname": "CeilingFan"
-	},
-	{
-		"abr": "ceilingfan2x2(dark)",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanDarklight"
 	},
 	{
 		"abr": "ceilinglamp",
@@ -2905,22 +2581,10 @@
 		"defname": "GLCeilingLamp_Yellow"
 	},
 	{
-		"abr": "chargeblasterauto-turret",
-		"price": 1583,
-		"category": "Security",
-		"defname": "Turret_Blaster"
-	},
-	{
 		"abr": "chargeturret",
 		"price": 1358,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
-	},
-	{
-		"abr": "chemfuelbarrel",
-		"price": 296,
-		"category": "Security",
-		"defname": "VFES_ChemfuelBarrel"
 	},
 	{
 		"abr": "chemfuelpowerplant",
@@ -2941,40 +2605,10 @@
 		"defname": "ChemfuelSiphon"
 	},
 	{
-		"abr": "compositevest",
-		"price": 442,
-		"category": "Armor",
-		"defname": "Apparel_CompositeVest"
-	},
-	{
 		"abr": "controlrodactuator",
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "ControlRodActuator"
-	},
-	{
-		"abr": "cosmopillar",
-		"price": 833,
-		"category": "Animals",
-		"defname": "Cosmopillar"
-	},
-	{
-		"abr": "curtain(tribal)(1x1)",
-		"price": 88,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribal"
-	},
-	{
-		"abr": "curtain(tribal)(2x1)",
-		"price": 177,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribalDouble"
-	},
-	{
-		"abr": "curtain(tribal)(3x1)",
-		"price": 265,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribalTriple"
 	},
 	{
 		"abr": "decoy",
@@ -2993,12 +2627,6 @@
 		"price": 983,
 		"category": "Security",
 		"defname": "VFES_Turret_FloorTurret"
-	},
-	{
-		"abr": "disposablerocketlauncher",
-		"price": 152,
-		"category": "Ranged weapons",
-		"defname": "CE_DisposableRocketLauncher"
 	},
 	{
 		"abr": "doormat",
@@ -3049,12 +2677,6 @@
 		"defname": "RailgunSabotDU"
 	},
 	{
-		"abr": "dualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_Refrigerator"
-	},
-	{
 		"abr": "electricboiler",
 		"price": 425,
 		"category": "Hygiene",
@@ -3073,52 +2695,16 @@
 		"defname": "ElectricPump"
 	},
 	{
-		"abr": "electricrepairbench",
-		"price": 583,
-		"category": "Production",
-		"defname": "ElectricTableRepair"
-	},
-	{
 		"abr": "electricsaunaheater",
 		"price": 725,
 		"category": "Hygiene",
 		"defname": "DBHSaunaHeaterElec"
 	},
 	{
-		"abr": "emptorpedo",
-		"price": 525,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_EMP"
-	},
-	{
-		"abr": "entanglementmanifold",
-		"price": 6667,
-		"category": "Items",
-		"defname": "SoSEntanglementManifold"
-	},
-	{
 		"abr": "ers",
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "ERS"
-	},
-	{
-		"abr": "evahelmet",
-		"price": 675,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmet"
-	},
-	{
-		"abr": "evasuit",
-		"price": 1150,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSuitBody"
-	},
-	{
-		"abr": "exoticparticles",
-		"price": 167,
-		"category": "Items",
-		"defname": "ArchotechExoticParticles"
 	},
 	{
 		"abr": "fertilitybooster",
@@ -3133,46 +2719,16 @@
 		"defname": "FireSprinkler"
 	},
 	{
-		"abr": "firefoamgrenade",
-		"price": 19,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeFirefoam"
-	},
-	{
 		"abr": "flameturret",
 		"price": 808,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
 	},
 	{
-		"abr": "flaregun",
-		"price": 200,
-		"category": "Ranged weapons",
-		"defname": "CE_FlareGun"
-	},
-	{
-		"abr": "flashbanggrenade",
-		"price": 14,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeFlashbang"
-	},
-	{
 		"abr": "fountain",
 		"price": 52,
 		"category": "Hygiene",
 		"defname": "Fountain"
-	},
-	{
-		"abr": "fsx",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "FSX"
-	},
-	{
-		"abr": "fsxrefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "CombatExtendedFsxRefiner"
 	},
 	{
 		"abr": "fuelrods",
@@ -3205,12 +2761,6 @@
 		"defname": "GasBoiler"
 	},
 	{
-		"abr": "gasmask",
-		"price": 193,
-		"category": "Headgear",
-		"defname": "Apparel_GasMask"
-	},
-	{
 		"abr": "glass",
 		"price": 12,
 		"category": "Manufactured",
@@ -3221,66 +2771,6 @@
 		"price": 1417,
 		"category": "Recreation",
 		"defname": "GlassMonitorLarge"
-	},
-	{
-		"abr": "grenadelauncher",
-		"price": 254,
-		"category": "Ranged weapons",
-		"defname": "CE_GrenadeLauncher"
-	},
-	{
-		"abr": "gunsmithingbench",
-		"price": 775,
-		"category": "Production",
-		"defname": "GunsmithingBench"
-	},
-	{
-		"abr": "heavyartillery",
-		"price": 1408,
-		"category": "Security",
-		"defname": "Raider_Turret_Artillery"
-	},
-	{
-		"abr": "heavyauto-turret",
-		"price": 3583,
-		"category": "Security",
-		"defname": "Turret_Heavy"
-	},
-	{
-		"abr": "heavycargoshuttle",
-		"price": 6292,
-		"category": "Furniture",
-		"defname": "HeavyShuttle"
-	},
-	{
-		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
-		"category": "Animal",
-		"defname": "ShuttleHeavyRace"
-	},
-	{
-		"abr": "heavyevahelmet",
-		"price": 1983,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmetHeavy"
-	},
-	{
-		"abr": "heavyevasuit",
-		"price": 6250,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSuitBodyHeavy"
-	},
-	{
-		"abr": "high-explosivetorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_HighExplosive"
-	},
-	{
-		"abr": "hologramrelay",
-		"price": 783,
-		"category": "Buildings",
-		"defname": "Ship_HologramRelay"
 	},
 	{
 		"abr": "hottub",
@@ -3295,12 +2785,6 @@
 		"defname": "HotWaterTank"
 	},
 	{
-		"abr": "hullfoamcanister",
-		"price": 33,
-		"category": "Items",
-		"defname": "HullFoam"
-	},
-	{
 		"abr": "hygieneenhancer",
 		"price": 1308,
 		"category": "Bionic",
@@ -3313,12 +2797,6 @@
 		"defname": "HyperweaveRefiner"
 	},
 	{
-		"abr": "improvisedgasmask",
-		"price": 156,
-		"category": "Headgear",
-		"defname": "Apparel_ImprovGasMask"
-	},
-	{
 		"abr": "irrigationsprinkler",
 		"price": 102,
 		"category": "Hygiene",
@@ -3329,18 +2807,6 @@
 		"price": 167,
 		"category": "Hygiene",
 		"defname": "KitchenSink"
-	},
-	{
-		"abr": "kpvmachinegun",
-		"price": 1383,
-		"category": "Security",
-		"defname": "Turret_KPV"
-	},
-	{
-		"abr": "landmine",
-		"price": 236,
-		"category": "Security",
-		"defname": "VFES_Landmine"
 	},
 	{
 		"abr": "largecircularglass",
@@ -3445,22 +2911,10 @@
 		"defname": "LitterBox"
 	},
 	{
-		"abr": "loadingbench",
-		"price": 775,
-		"category": "Production",
-		"defname": "AmmoBench"
-	},
-	{
 		"abr": "logboiler",
 		"price": 642,
 		"category": "Hygiene",
 		"defname": "LogBoiler"
-	},
-	{
-		"abr": "m240b",
-		"price": 800,
-		"category": "Security",
-		"defname": "Turret_M240B"
 	},
 	{
 		"abr": "managerdesk",
@@ -3473,30 +2927,6 @@
 		"price": 251,
 		"category": "Recreation",
 		"defname": "MartialArtsTarget"
-	},
-	{
-		"abr": "mechanitecocktail",
-		"price": 12,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeMechanite"
-	},
-	{
-		"abr": "mechanitedisassemblercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechMechaniteCore"
-	},
-	{
-		"abr": "mechaniterepairgel",
-		"price": 833,
-		"category": "Items",
-		"defname": "ArchotechRepairGel"
-	},
-	{
-		"abr": "mediumauto-turret",
-		"price": 1250,
-		"category": "Security",
-		"defname": "Turret_Medium"
 	},
 	{
 		"abr": "mediumdoormat",
@@ -3535,12 +2965,6 @@
 		"defname": "DoorMatMediumTeal"
 	},
 	{
-		"abr": "meleeshield",
-		"price": 257,
-		"category": "Shields",
-		"defname": "Apparel_MeleeShield"
-	},
-	{
 		"abr": "meps",
 		"price": 67,
 		"category": "Rimatomics Product",
@@ -3551,12 +2975,6 @@
 		"price": 842,
 		"category": "Security",
 		"defname": "VFES_Turret_MilitaryTurret"
-	},
-	{
-		"abr": "minimalshipbridge",
-		"price": 425,
-		"category": "Furniture",
-		"defname": "ShipPilotSeatMini"
 	},
 	{
 		"abr": "missilefuselage",
@@ -3607,12 +3025,6 @@
 		"defname": "NeutroamineRefiner"
 	},
 	{
-		"abr": "nightvisionmonocular",
-		"price": 475,
-		"category": "Headgear",
-		"defname": "Apparel_SimpleNightVision"
-	},
-	{
 		"abr": "nuclearwarhead",
 		"price": 24000,
 		"category": "Rimatomics Product",
@@ -3623,18 +3035,6 @@
 		"price": 36,
 		"category": "Furniture",
 		"defname": "OutdoorGroundLamp"
-	},
-	{
-		"abr": "personalshuttle",
-		"price": 1792,
-		"category": "Furniture",
-		"defname": "PersonalShuttle"
-	},
-	{
-		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "ShuttlePersonalRace"
 	},
 	{
 		"abr": "pipelinevalve",
@@ -3655,12 +3055,6 @@
 		"defname": "Plutonium"
 	},
 	{
-		"abr": "portablehologramrelay",
-		"price": 1417,
-		"category": "Utility",
-		"defname": "Apparel_HologramRelay"
-	},
-	{
 		"abr": "potassiumiodide",
 		"price": 53,
 		"category": "Drugs",
@@ -3673,22 +3067,10 @@
 		"defname": "ShowerAdvStuff"
 	},
 	{
-		"abr": "poweredexoframe",
-		"price": 1708,
-		"category": "Loadbearing gear",
-		"defname": "Apparel_ExoFrame"
-	},
-	{
 		"abr": "pregnancytest",
 		"price": 12,
 		"category": "Drugs",
 		"defname": "PregnancyTest"
-	},
-	{
-		"abr": "prometheum",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Prometheum"
 	},
 	{
 		"abr": "prometheumbomb",
@@ -3701,36 +3083,6 @@
 		"price": 758,
 		"category": "Oil",
 		"defname": "NapalmRefiner"
-	},
-	{
-		"abr": "psychicflayercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechPsychicCore"
-	},
-	{
-		"abr": "psychicmanipulator",
-		"price": 3333,
-		"category": "Archotech",
-		"defname": "SoSPsychicManipulator"
-	},
-	{
-		"abr": "psychicpredictor",
-		"price": 2333,
-		"category": "Archotech",
-		"defname": "SoSPsychicPredictor"
-	},
-	{
-		"abr": "psychicpylon",
-		"price": 2167,
-		"category": "Special",
-		"defname": "VFES_PsychicPylon"
-	},
-	{
-		"abr": "quadrefrigerator",
-		"price": 307,
-		"category": "Furniture",
-		"defname": "RimFridge_QuadRefrigerator"
 	},
 	{
 		"abr": "r.t.g",
@@ -3757,12 +3109,6 @@
 		"defname": "RadiatorStuffed"
 	},
 	{
-		"abr": "recyclotron",
-		"price": 10292,
-		"category": "Production",
-		"defname": "ArchoRecycler"
-	},
-	{
 		"abr": "refineryunloadingbay",
 		"price": 49,
 		"category": "Oil",
@@ -3779,12 +3125,6 @@
 		"price": 600,
 		"category": "Production",
 		"defname": "ReinforcedGlassworkTable"
-	},
-	{
-		"abr": "repairkit",
-		"price": 30,
-		"category": "Manufactured",
-		"defname": "RepairKit"
 	},
 	{
 		"abr": "resourceconsole",
@@ -3805,12 +3145,6 @@
 		"defname": "RailgunSabot"
 	},
 	{
-		"abr": "sapientholodeck",
-		"price": 10283,
-		"category": "Recreation",
-		"defname": "Holodeck_AI"
-	},
-	{
 		"abr": "saunaseating",
 		"price": 9,
 		"category": "Furniture",
@@ -3829,12 +3163,6 @@
 		"defname": "VFE_Scarecrow"
 	},
 	{
-		"abr": "schooltable",
-		"price": 281,
-		"category": "Production",
-		"defname": "SchoolTable"
-	},
-	{
 		"abr": "searchlight",
 		"price": 475,
 		"category": "Security",
@@ -3845,24 +3173,6 @@
 		"price": 1058,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "shipbridge",
-		"price": 1200,
-		"category": "Furniture",
-		"defname": "ShipPilotSeat"
-	},
-	{
-		"abr": "shipcapacitor",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "ShipCapacitorSmall"
-	},
-	{
-		"abr": "shipsalvage",
-		"price": 1758,
-		"category": "Special",
-		"defname": "ShipChunkSalvage"
 	},
 	{
 		"abr": "shootingtarget",
@@ -3883,12 +3193,6 @@
 		"defname": "ShowerSimple"
 	},
 	{
-		"abr": "singlerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleRefrigerator"
-	},
-	{
 		"abr": "smallshieldgenerator",
 		"price": 3983,
 		"category": "Security",
@@ -3901,100 +3205,10 @@
 		"defname": "ToiletAdvStuff"
 	},
 	{
-		"abr": "smokegrenade",
-		"price": 17,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeSmoke"
-	},
-	{
-		"abr": "spacetelescope",
-		"price": 1000,
-		"category": "Recreation",
-		"defname": "TelescopeSpace"
-	},
-	{
 		"abr": "sprinkler",
 		"price": 182,
 		"category": "Misc",
 		"defname": "VFE_Sprinkler"
-	},
-	{
-		"abr": "sraf:canary",
-		"price": 20258,
-		"category": "Buildings",
-		"defname": "SRAF"
-	},
-	{
-		"abr": "sraf:tek-7",
-		"price": 31292,
-		"category": "Buildings",
-		"defname": "SRAFTek"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": 9150,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": 29875,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": 52792,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iiip:pelican",
-		"price": 61100,
-		"category": "Buildings",
-		"defname": "SRTSMkIIIp"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": 218617,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
-	},
-	{
-		"abr": "stellapede",
-		"price": 333,
-		"category": "Animals",
-		"defname": "Stellapede"
-	},
-	{
-		"abr": "stickbomb",
-		"price": 43,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeStickBomb"
-	},
-	{
-		"abr": "superheavydropship",
-		"price": 13492,
-		"category": "Furniture",
-		"defname": "DropshipShuttle"
-	},
-	{
-		"abr": "superheavydropship(hovermode)",
-		"price": 33333,
-		"category": "Animal",
-		"defname": "ShuttleDropshipRace"
-	},
-	{
-		"abr": "superpod",
-		"price": 6958,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
-	},
-	{
-		"abr": "survivalbelt",
-		"price": 178,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSurvivalBelt"
 	},
 	{
 		"abr": "synthamiderefiner",
@@ -4021,12 +3235,6 @@
 		"defname": "GlassTableShort"
 	},
 	{
-		"abr": "tacticalvest",
-		"price": 248,
-		"category": "Loadbearing gear",
-		"defname": "Apparel_TacVest"
-	},
-	{
 		"abr": "targetingchip",
 		"price": 67,
 		"category": "Rimatomics Product",
@@ -4051,12 +3259,6 @@
 		"defname": "RadiatorTowelRail"
 	},
 	{
-		"abr": "tribalbackpack",
-		"price": 97,
-		"category": "Loadbearing gear",
-		"defname": "Apparel_TribalBackpack"
-	},
-	{
 		"abr": "turbineblades",
 		"price": 2,
 		"category": "Rimatomics Product",
@@ -4075,40 +3277,16 @@
 		"defname": "UncuredComposite"
 	},
 	{
-		"abr": "uraniumfuelpod",
-		"price": 1,
-		"category": "Manufactured",
-		"defname": "ShuttleFuelPods"
-	},
-	{
 		"abr": "uraniumpellets",
 		"price": 3,
 		"category": "Rimatomics Product",
 		"defname": "UraniumPellets"
 	},
 	{
-		"abr": "vanoroot",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawVanoroot"
-	},
-	{
 		"abr": "walk-infreezerunit",
 		"price": 153,
 		"category": "Hygiene",
 		"defname": "FreezerUnit"
-	},
-	{
-		"abr": "walldarklight",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightDark"
-	},
-	{
-		"abr": "walldualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_WallRefrigerator"
 	},
 	{
 		"abr": "walllight",
@@ -4123,58 +3301,16 @@
 		"defname": "GLWallLamp"
 	},
 	{
-		"abr": "walllight(azure)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightAzure"
-	},
-	{
-		"abr": "walllight(blue)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightBlue"
-	},
-	{
 		"abr": "walllight(blue)",
 		"price": 64,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Blue"
 	},
 	{
-		"abr": "walllight(chartreuse)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightChartreuse"
-	},
-	{
-		"abr": "walllight(cyan)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightCyan"
-	},
-	{
-		"abr": "walllight(green)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightGreen"
-	},
-	{
 		"abr": "walllight(green)",
 		"price": 64,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Green"
-	},
-	{
-		"abr": "walllight(magenta)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightMagenta"
-	},
-	{
-		"abr": "walllight(orange)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightOrange"
 	},
 	{
 		"abr": "walllight(orange)",
@@ -4184,33 +3320,9 @@
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRed"
-	},
-	{
-		"abr": "walllight(red)",
 		"price": 64,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Red"
-	},
-	{
-		"abr": "walllight(rose)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRose"
-	},
-	{
-		"abr": "walllight(springgreen)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightSpringGreen"
-	},
-	{
-		"abr": "walllight(violet)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightViolet"
 	},
 	{
 		"abr": "walllight(violet)",
@@ -4220,21 +3332,9 @@
 	},
 	{
 		"abr": "walllight(yellow)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightYellow"
-	},
-	{
-		"abr": "walllight(yellow)",
 		"price": 64,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Yellow"
-	},
-	{
-		"abr": "wallsinglerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
 		"abr": "wallsunlight",
@@ -4267,18 +3367,6 @@
 		"defname": "PPCADS"
 	},
 	{
-		"abr": "advancedsensors",
-		"price": 10150,
-		"category": "",
-		"defname": "Ship_SensorClusterAdv"
-	},
-	{
-		"abr": "advancedshipradiator",
-		"price": 1658,
-		"category": "",
-		"defname": "ShipInside_PassiveCoolerAdvanced"
-	},
-	{
 		"abr": "air-conpipe",
 		"price": 5,
 		"category": "",
@@ -4297,12 +3385,6 @@
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
-		"abr": "ancientjohnson-tanakadrive",
-		"price": 12208,
-		"category": "",
-		"defname": "JTDriveSalvage"
-	},
-	{
 		"abr": "ancientlamppost",
 		"price": 50,
 		"category": "",
@@ -4315,124 +3397,10 @@
 		"defname": "AnimalFlap"
 	},
 	{
-		"abr": "anti-entropicheatsink",
-		"price": 2850,
-		"category": "",
-		"defname": "ShipHeatsinkAntiEntropy"
-	},
-	{
-		"abr": "antimatterreactor",
-		"price": 14317,
-		"category": "",
-		"defname": "ArchotechAntimatterReactor"
-	},
-	{
-		"abr": "antimatterthruster",
-		"price": 13067,
-		"category": "",
-		"defname": "Ship_Engine_Archotech"
-	},
-	{
-		"abr": "archotechhullcorner(1x1)",
-		"price": 143,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneOne"
-	},
-	{
-		"abr": "archotechhullcorner(1x1)flip",
-		"price": 143,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneOneFlip"
-	},
-	{
-		"abr": "archotechhullcorner(1x2)",
-		"price": 282,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneTwo"
-	},
-	{
-		"abr": "archotechhullcorner(1x2)flip",
-		"price": 282,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneTwoFlip"
-	},
-	{
-		"abr": "archotechhullcorner(1x3)",
-		"price": 417,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneThree"
-	},
-	{
-		"abr": "archotechhullcorner(1x3)flip",
-		"price": 417,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneThreeFlip"
-	},
-	{
-		"abr": "archotechhullplating",
-		"price": 42,
-		"category": "",
-		"defname": "ShipHullTileArchotech"
-	},
-	{
-		"abr": "archotechshieldgenerator",
-		"price": 15633,
-		"category": "",
-		"defname": "ArchotechShieldGenerator"
-	},
-	{
-		"abr": "archotechshipairlock",
-		"price": 1675,
-		"category": "",
-		"defname": "ShipAirlockArchotech"
-	},
-	{
-		"abr": "archotechshiphull",
-		"price": 350,
-		"category": "",
-		"defname": "Ship_BeamArchotech"
-	},
-	{
-		"abr": "archotechshiphull(unpowered)",
-		"price": 331,
-		"category": "",
-		"defname": "Ship_BeamArchotech_Unpowered"
-	},
-	{
-		"abr": "archotechshipradiator",
-		"price": 2075,
-		"category": "",
-		"defname": "ShipInside_PassiveCoolerArchotech"
-	},
-	{
-		"abr": "archotechsolargenerator",
-		"price": 1233,
-		"category": "",
-		"defname": "ShipInside_SolarGeneratorArchotech"
-	},
-	{
-		"abr": "archotechspore",
-		"price": 17800,
-		"category": "",
-		"defname": "ShipArchotechSpore"
-	},
-	{
-		"abr": "archotechthermalregulator",
-		"price": 467,
-		"category": "",
-		"defname": "ShipInside_PassiveVentArchotech"
-	},
-	{
 		"abr": "artificialecosystem",
 		"price": 1642,
 		"category": "",
 		"defname": "VFE_Ecosystem"
-	},
-	{
-		"abr": "artilleryturret",
-		"price": 16633,
-		"category": "",
-		"defname": "ShipTurret_ACIII"
 	},
 	{
 		"abr": "autocannonturret",
@@ -4453,18 +3421,6 @@
 		"defname": "Autodoor"
 	},
 	{
-		"abr": "autodoor(2x1)",
-		"price": 650,
-		"category": "",
-		"defname": "PH_AutodoorDouble"
-	},
-	{
-		"abr": "autodoor(3x1)",
-		"price": 967,
-		"category": "",
-		"defname": "PH_AutodoorTriple"
-	},
-	{
 		"abr": "auto-ejectcryptosleepcasket",
 		"price": 1517,
 		"category": "",
@@ -4483,46 +3439,16 @@
 		"defname": "VFES_BarbedWire"
 	},
 	{
-		"abr": "barbedwire",
-		"price": 6,
-		"category": "",
-		"defname": "BarbedWire"
-	},
-	{
 		"abr": "barricade",
 		"price": 19,
 		"category": "",
 		"defname": "Barricade"
 	},
 	{
-		"abr": "barrier",
-		"price": 39,
-		"category": "",
-		"defname": "VFES_Barrier"
-	},
-	{
 		"abr": "basicsensors",
 		"price": 3008,
 		"category": "",
 		"defname": "Ship_SensorCluster"
-	},
-	{
-		"abr": "blastdoor(1x1)",
-		"price": 600,
-		"category": "",
-		"defname": "PH_DoorBlastSingle"
-	},
-	{
-		"abr": "blastdoor(2x1)",
-		"price": 1150,
-		"category": "",
-		"defname": "PH_DoorBlastDoor"
-	},
-	{
-		"abr": "blastdoor(3x2)",
-		"price": 2300,
-		"category": "",
-		"defname": "PH_DoorThickBlastDoor"
 	},
 	{
 		"abr": "burnpit",
@@ -4535,18 +3461,6 @@
 		"price": 41,
 		"category": "",
 		"defname": "Campfire"
-	},
-	{
-		"abr": "cannonturret",
-		"price": 2733,
-		"category": "",
-		"defname": "ShipTurret_ACI"
-	},
-	{
-		"abr": "capacitorarray",
-		"price": 7750,
-		"category": "",
-		"defname": "ShipCapacitor"
 	},
 	{
 		"abr": "catapult",
@@ -4589,12 +3503,6 @@
 		"price": 4,
 		"category": "",
 		"defname": "Filth_NapalmTrail"
-	},
-	{
-		"abr": "cloakingdevice",
-		"price": 6442,
-		"category": "",
-		"defname": "ShipCloakingDevice"
 	},
 	{
 		"abr": "coldwaterpipe",
@@ -4651,18 +3559,6 @@
 		"defname": "CoolingTower"
 	},
 	{
-		"abr": "crittersleepcaskets(32)",
-		"price": 4275,
-		"category": "",
-		"defname": "CrittersleepCasketLarge"
-	},
-	{
-		"abr": "crittersleepcaskets(8)",
-		"price": 1242,
-		"category": "",
-		"defname": "CrittersleepCasket"
-	},
-	{
 		"abr": "crudecracker",
 		"price": 1683,
 		"category": "",
@@ -4675,22 +3571,10 @@
 		"defname": "OilStorage"
 	},
 	{
-		"abr": "cryptonest",
-		"price": 558,
-		"category": "",
-		"defname": "Cryptonest"
-	},
-	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
 		"category": "",
 		"defname": "CryptosleepCasket"
-	},
-	{
-		"abr": "damagedairlock",
-		"price": 251,
-		"category": "",
-		"defname": "ShipAirlockWrecked"
 	},
 	{
 		"abr": "deepoilwell",
@@ -4729,30 +3613,6 @@
 		"defname": "Door"
 	},
 	{
-		"abr": "door(2x1)",
-		"price": 177,
-		"category": "",
-		"defname": "PH_DoorDouble"
-	},
-	{
-		"abr": "door(3x1)",
-		"price": 265,
-		"category": "",
-		"defname": "PH_DoorTriple"
-	},
-	{
-		"abr": "doorbutton",
-		"price": 86,
-		"category": "",
-		"defname": "PH_DoorButton"
-	},
-	{
-		"abr": "doorlever",
-		"price": 70,
-		"category": "",
-		"defname": "PH_DoorLever"
-	},
-	{
 		"abr": "doubleautocannon",
 		"price": 3475,
 		"category": "",
@@ -4777,18 +3637,6 @@
 		"defname": "ElectricCrematorium"
 	},
 	{
-		"abr": "embrasure",
-		"price": 18,
-		"category": "",
-		"defname": "Embrasure"
-	},
-	{
-		"abr": "emergencypurgeport",
-		"price": 2050,
-		"category": "",
-		"defname": "ShipPurgePort"
-	},
-	{
 		"abr": "empcannon",
 		"price": 4225,
 		"category": "",
@@ -4805,12 +3653,6 @@
 		"price": 86,
 		"category": "",
 		"defname": "FenceGate"
-	},
-	{
-		"abr": "gate(2x1)",
-		"price": 350,
-		"category": "",
-		"defname": "PH_GateDoubleThick"
 	},
 	{
 		"abr": "geothermalgenerator",
@@ -4841,24 +3683,6 @@
 		"price": 1092,
 		"category": "",
 		"defname": "GroundPenetratingScanner"
-	},
-	{
-		"abr": "hardpoint",
-		"price": 567,
-		"category": "",
-		"defname": "ShipHardpoint"
-	},
-	{
-		"abr": "heatmanifold",
-		"price": 2258,
-		"category": "",
-		"defname": "ShipHeatManifold"
-	},
-	{
-		"abr": "heatsink",
-		"price": 1483,
-		"category": "",
-		"defname": "ShipHeatsink"
 	},
 	{
 		"abr": "hel",
@@ -4897,142 +3721,10 @@
 		"defname": "WaterTowerL"
 	},
 	{
-		"abr": "hugewindow",
-		"price": 658,
-		"category": "",
-		"defname": "HugeOpenWindow"
-	},
-	{
-		"abr": "hullcorner(1x1)",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne_Mech"
-	},
-	{
-		"abr": "hullcorner(1x1)",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne"
-	},
-	{
-		"abr": "hullcorner(1x1)flip",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne_MechFlip"
-	},
-	{
-		"abr": "hullcorner(1x1)flip",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOneFlip"
-	},
-	{
-		"abr": "hullcorner(1x2)",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwo_Mech"
-	},
-	{
-		"abr": "hullcorner(1x2)",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwo"
-	},
-	{
-		"abr": "hullcorner(1x2)flip",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwoFlip_Mech"
-	},
-	{
-		"abr": "hullcorner(1x2)flip",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwoFlip"
-	},
-	{
-		"abr": "hullcorner(1x3)",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThree_Mech"
-	},
-	{
-		"abr": "hullcorner(1x3)",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThree"
-	},
-	{
-		"abr": "hullcorner(1x3)flip",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThreeFlip_Mech"
-	},
-	{
-		"abr": "hullcorner(1x3)flip",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThreeFlip"
-	},
-	{
-		"abr": "hullplating",
-		"price": 24,
-		"category": "",
-		"defname": "ShipHullTile"
-	},
-	{
-		"abr": "hullwreckage",
-		"price": 19,
-		"category": "",
-		"defname": "ShipHullTileWrecked"
-	},
-	{
-		"abr": "hullwreckage",
-		"price": 19,
-		"category": "",
-		"defname": "ShipHullTileWreckedFake"
-	},
-	{
-		"abr": "hullfoam",
-		"price": 34,
-		"category": "",
-		"defname": "HullFoamWall"
-	},
-	{
-		"abr": "hullfoamdistributor",
-		"price": 2208,
-		"category": "",
-		"defname": "HullFoamDistributor"
-	},
-	{
-		"abr": "hullfoamplating",
-		"price": 34,
-		"category": "",
-		"defname": "ShipHullfoamTile"
-	},
-	{
 		"abr": "hydroponicsbasin",
 		"price": 383,
 		"category": "",
 		"defname": "HydroponicsBasin"
-	},
-	{
-		"abr": "jaildoor",
-		"price": 375,
-		"category": "",
-		"defname": "PH_DoorJail"
-	},
-	{
-		"abr": "johnson-tanakadrive",
-		"price": 15542,
-		"category": "",
-		"defname": "Ship_Engine_Interplanetary"
-	},
-	{
-		"abr": "largecannonturret",
-		"price": 6175,
-		"category": "",
-		"defname": "ShipTurret_ACII"
 	},
 	{
 		"abr": "largechemfuelpowerplant",
@@ -5041,58 +3733,10 @@
 		"defname": "LargeFuelPowerplant"
 	},
 	{
-		"abr": "largeemergencypurgeport",
-		"price": 10892,
-		"category": "",
-		"defname": "ShipPurgePortLarge"
-	},
-	{
-		"abr": "largehardpoint",
-		"price": 1133,
-		"category": "",
-		"defname": "ShipHardpointExtraMedium"
-	},
-	{
-		"abr": "largeheatsink",
-		"price": 7400,
-		"category": "",
-		"defname": "ShipHeatsinkLarge"
-	},
-	{
-		"abr": "largelaserturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Laser_Large"
-	},
-	{
-		"abr": "largeplasmaturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Plasma_Large"
-	},
-	{
-		"abr": "largerailgunturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Kinetic_Large"
-	},
-	{
-		"abr": "largereinforcedwindow",
-		"price": 442,
-		"category": "",
-		"defname": "LargeReinforcedOpenWindow"
-	},
-	{
 		"abr": "largeshieldgenerator",
 		"price": 7458,
 		"category": "",
 		"defname": "VFES_ShieldGenerator_Large"
-	},
-	{
-		"abr": "largeshuttlebay",
-		"price": 4942,
-		"category": "",
-		"defname": "ShipShuttleBayLarge"
 	},
 	{
 		"abr": "largestele",
@@ -5101,28 +3745,10 @@
 		"defname": "SteleLarge"
 	},
 	{
-		"abr": "largewindow",
-		"price": 295,
-		"category": "",
-		"defname": "LargeOpenWindow"
-	},
-	{
-		"abr": "laserturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Laser"
-	},
-	{
 		"abr": "liberator",
 		"price": 3942,
 		"category": "",
 		"defname": "MissileSilo"
-	},
-	{
-		"abr": "lifesupportsystem",
-		"price": 5458,
-		"category": "",
-		"defname": "Ship_LifeSupport"
 	},
 	{
 		"abr": "long-rangemineralscanner",
@@ -5137,58 +3763,10 @@
 		"defname": "PPCMarauder"
 	},
 	{
-		"abr": "mechanoidhullplating",
-		"price": 24,
-		"category": "",
-		"defname": "ShipHullTileMech"
-	},
-	{
-		"abr": "mechanoidshipairlock",
-		"price": 842,
-		"category": "",
-		"defname": "ShipAirlockMech"
-	},
-	{
-		"abr": "mechanoidshiphull",
-		"price": 174,
-		"category": "",
-		"defname": "Ship_BeamMech"
-	},
-	{
-		"abr": "mechanoidshiphull(unpowered)",
-		"price": 152,
-		"category": "",
-		"defname": "Ship_BeamMech_Unpowered"
-	},
-	{
-		"abr": "mechanoidshipradiator",
-		"price": 1658,
-		"category": "",
-		"defname": "ShipInside_PassiveCoolerMechanoid"
-	},
-	{
-		"abr": "mechanoidsolargenerator",
-		"price": 1233,
-		"category": "",
-		"defname": "ShipInside_SolarGeneratorMech"
-	},
-	{
-		"abr": "mechanoidthermalregulator",
-		"price": 301,
-		"category": "",
-		"defname": "ShipInside_PassiveVentMechanoid"
-	},
-	{
 		"abr": "moisturepump",
 		"price": 458,
 		"category": "",
 		"defname": "MoisturePump"
-	},
-	{
-		"abr": "nuclearengine",
-		"price": 7483,
-		"category": "",
-		"defname": "Ship_Engine_Large"
 	},
 	{
 		"abr": "nutrientpastedispenser",
@@ -5231,12 +3809,6 @@
 		"price": 112,
 		"category": "",
 		"defname": "VFE_PlanterBox"
-	},
-	{
-		"abr": "plasmaturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Plasma"
 	},
 	{
 		"abr": "platform",
@@ -5317,12 +3889,6 @@
 		"defname": "CoolingRadiator"
 	},
 	{
-		"abr": "railgunturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Kinetic"
-	},
-	{
 		"abr": "reactorconsole",
 		"price": 758,
 		"category": "",
@@ -5353,30 +3919,6 @@
 		"defname": "RadiationShielding"
 	},
 	{
-		"abr": "reinforcedwindow",
-		"price": 189,
-		"category": "",
-		"defname": "ReinforcedOpenWindow"
-	},
-	{
-		"abr": "remotedoor(1x1)",
-		"price": 206,
-		"category": "",
-		"defname": "PH_DoorRemoteSingle"
-	},
-	{
-		"abr": "remotedoor(2x1)",
-		"price": 408,
-		"category": "",
-		"defname": "PH_DoorRemoteDouble"
-	},
-	{
-		"abr": "remotedoor(3x1)",
-		"price": 617,
-		"category": "",
-		"defname": "PH_DoorRemoteTriple"
-	},
-	{
 		"abr": "researchreactor",
 		"price": 2175,
 		"category": "",
@@ -5401,28 +3943,10 @@
 		"defname": "Ship_Engine"
 	},
 	{
-		"abr": "rocketturret",
-		"price": 2508,
-		"category": "",
-		"defname": "VFES_Turret_TriRocket"
-	},
-	{
-		"abr": "rusticwindow",
-		"price": 88,
-		"category": "",
-		"defname": "SimpleOpenWindow"
-	},
-	{
 		"abr": "sacs",
 		"price": 1167,
 		"category": "",
 		"defname": "PPCWeaponsConsole"
-	},
-	{
-		"abr": "salvagebay",
-		"price": 3575,
-		"category": "",
-		"defname": "ShipSalvageBay"
 	},
 	{
 		"abr": "sandbags",
@@ -5473,18 +3997,6 @@
 		"defname": "SewageTreatment"
 	},
 	{
-		"abr": "shieldgenerator",
-		"price": 7308,
-		"category": "",
-		"defname": "ShipCombatShieldGenerator"
-	},
-	{
-		"abr": "shipairlock",
-		"price": 842,
-		"category": "",
-		"defname": "ShipAirlock"
-	},
-	{
 		"abr": "shipcomputercore",
 		"price": 9742,
 		"category": "",
@@ -5501,42 +4013,6 @@
 		"price": 174,
 		"category": "",
 		"defname": "Ship_Beam"
-	},
-	{
-		"abr": "shiphull",
-		"price": 10,
-		"category": "",
-		"defname": "Ship_FakeBeam"
-	},
-	{
-		"abr": "shiphull(unpowered)",
-		"price": 152,
-		"category": "",
-		"defname": "Ship_Beam_Unpowered"
-	},
-	{
-		"abr": "shipradiator",
-		"price": 1075,
-		"category": "",
-		"defname": "ShipInside_PassiveCooler"
-	},
-	{
-		"abr": "shipthermalregulator",
-		"price": 301,
-		"category": "",
-		"defname": "ShipInside_PassiveVent"
-	},
-	{
-		"abr": "shortwall",
-		"price": 14,
-		"category": "",
-		"defname": "VFES_ShortWall"
-	},
-	{
-		"abr": "shuttlebay",
-		"price": 3575,
-		"category": "",
-		"defname": "ShipShuttleBay"
 	},
 	{
 		"abr": "skylight",
@@ -5713,34 +4189,10 @@
 		"defname": "SkyLightZ"
 	},
 	{
-		"abr": "smallhardpoint",
-		"price": 367,
-		"category": "",
-		"defname": "ShipHardpointSmall"
-	},
-	{
-		"abr": "smalllifesupportsystem",
-		"price": 6483,
-		"category": "",
-		"defname": "Ship_LifeSupport_Small"
-	},
-	{
-		"abr": "smallrocketengine",
-		"price": 1058,
-		"category": "",
-		"defname": "Ship_Engine_Small"
-	},
-	{
 		"abr": "solargenerator",
 		"price": 492,
 		"category": "",
 		"defname": "SolarGenerator"
-	},
-	{
-		"abr": "solargenerator",
-		"price": 1233,
-		"category": "",
-		"defname": "ShipInside_SolarGenerator"
 	},
 	{
 		"abr": "solarheater",
@@ -5753,48 +4205,6 @@
 		"price": 79,
 		"category": "",
 		"defname": "SparkGrid"
-	},
-	{
-		"abr": "spinalamplifier",
-		"price": 2933,
-		"category": "",
-		"defname": "ShipSpinalAmplifier"
-	},
-	{
-		"abr": "spinalbarrel:disassembler",
-		"price": 13700,
-		"category": "",
-		"defname": "ShipSpinalBarrelMechanite"
-	},
-	{
-		"abr": "spinalbarrel:laser",
-		"price": 7075,
-		"category": "",
-		"defname": "ShipSpinalBarrelLaser"
-	},
-	{
-		"abr": "spinalbarrel:plasma",
-		"price": 7075,
-		"category": "",
-		"defname": "ShipSpinalBarrelPlasma"
-	},
-	{
-		"abr": "spinalbarrel:psychicflayer",
-		"price": 13700,
-		"category": "",
-		"defname": "ShipSpinalBarrelPsychic"
-	},
-	{
-		"abr": "spinalbarrel:railgun",
-		"price": 7075,
-		"category": "",
-		"defname": "ShipSpinalBarrelKinetic"
-	},
-	{
-		"abr": "spinalcapacitor",
-		"price": 9175,
-		"category": "",
-		"defname": "ShipSpinalEmitter"
 	},
 	{
 		"abr": "stalldoor",
@@ -5839,12 +4249,6 @@
 		"defname": "PPCTeslaCoil"
 	},
 	{
-		"abr": "thermalconduit",
-		"price": 18,
-		"category": "",
-		"defname": "ShipHeatConduit"
-	},
-	{
 		"abr": "thorturbine",
 		"price": 2017,
 		"category": "",
@@ -5873,24 +4277,6 @@
 		"price": 41,
 		"category": "",
 		"defname": "TorchLamp"
-	},
-	{
-		"abr": "torpedotube",
-		"price": 592,
-		"category": "",
-		"defname": "ShipTorpedoOne"
-	},
-	{
-		"abr": "torpedotubes(2)",
-		"price": 1142,
-		"category": "",
-		"defname": "ShipTorpedoTwo"
-	},
-	{
-		"abr": "torpedotubes(6)",
-		"price": 2325,
-		"category": "",
-		"defname": "ShipTorpedoSix"
 	},
 	{
 		"abr": "transportpod",
@@ -5971,12 +4357,6 @@
 		"defname": "WeaponsBench"
 	},
 	{
-		"abr": "weathernormalizationdevice",
-		"price": 2000,
-		"category": "Artifacts",
-		"defname": "WeatherCancelDevice"
-	},
-	{
 		"abr": "windpump",
 		"price": 358,
 		"category": "",
@@ -5995,682 +4375,16 @@
 		"defname": "Window"
 	},
 	{
-		"abr": "window",
-		"price": 118,
-		"category": "",
-		"defname": "OpenWindow"
-	},
-	{
 		"abr": "wood-firedgenerator",
 		"price": 442,
 		"category": "",
 		"defname": "WoodFiredGenerator"
 	},
 	{
-		"abr": "wreckedhull",
-		"price": 65,
-		"category": "",
-		"defname": "Ship_Beam_Wrecked"
-	},
-	{
-		"abr": "wreckedhull",
-		"price": 65,
-		"category": "",
-		"defname": "Ship_Beam_Wrecked_Fake"
-	},
-	{
-		"abr": "xlhardpoint",
-		"price": 2275,
-		"category": "",
-		"defname": "ShipHardpointLarge"
-	},
-	{
 		"abr": "zeusturbine",
 		"price": 6075,
 		"category": "",
 		"defname": "BigTurbine"
-	},
-	{
-		"abr": "jelliedchemfuel",
-		"price": 1,
-		"category": "Flamethrower fuel",
-		"defname": "Ammo_Flamethrower_Napalm"
-	},
-	{
-		"abr": "jelliedprometheum",
-		"price": 1,
-		"category": "Flamethrower fuel",
-		"defname": "Ammo_Flamethrower_Prometheum"
-	},
-	{
-		"abr": "flareround",
-		"price": 1,
-		"category": "Flare",
-		"defname": "Ammo_Flare"
-	},
-	{
-		"abr": "12mmrailguncartridge(sabot)",
-		"price": 1,
-		"category": "12mm Railgun",
-		"defname": "Ammo_12mmRailgun_Sabot"
-	},
-	{
-		"abr": "12x64mmchargedcartridge",
-		"price": 1,
-		"category": "12x64mm Charged",
-		"defname": "Ammo_12x64mmCharged"
-	},
-	{
-		"abr": "164x284mmdemolitionshell",
-		"price": 18,
-		"category": "164x284mm Demolition Shell",
-		"defname": "Ammo_164x284mmDemo"
-	},
-	{
-		"abr": "30x64mmfuelcell(incendiary)",
-		"price": 6,
-		"category": "30x64mm Fuel Cell",
-		"defname": "Ammo_30x64mmFuel_Incendiary"
-	},
-	{
-		"abr": "30x64mmfuelcell(thermobaric)",
-		"price": 10,
-		"category": "30x64mm Fuel Cell",
-		"defname": "Ammo_30x64mmFuel_Thermobaric"
-	},
-	{
-		"abr": "30x64mmfuelcell(foam)",
-		"price": 6,
-		"category": "30x64mm Fuel Cell",
-		"defname": "Ammo_30x64mmFuel_Foam"
-	},
-	{
-		"abr": "5x35mmchargedcartridge",
-		"price": 1,
-		"category": "5x35mm Charged",
-		"defname": "Ammo_5x35mmCharged"
-	},
-	{
-		"abr": "6x24mmchargedcartridge",
-		"price": 1,
-		"category": "6x24mm Charged",
-		"defname": "Ammo_6x24mmCharged"
-	},
-	{
-		"abr": "6x24mmchargedcartridge(conc.)",
-		"price": 1,
-		"category": "6x24mm Charged",
-		"defname": "Ammo_6x24mmCharged_AP"
-	},
-	{
-		"abr": "6x24mmchargedcartridge(ion)",
-		"price": 1,
-		"category": "6x24mm Charged",
-		"defname": "Ammo_6x24mmCharged_Ion"
-	},
-	{
-		"abr": "80x256mmfuelcell(incendiary)",
-		"price": 18,
-		"category": "80x256mm Fuel Cell",
-		"defname": "Ammo_80x256mmFuel_Incendiary"
-	},
-	{
-		"abr": "8x35mmchargedcartridge",
-		"price": 3,
-		"category": "8x35mm Charged",
-		"defname": "Ammo_8x35mmCharged"
-	},
-	{
-		"abr": "8x35mmchargedcartridge(conc.)",
-		"price": 3,
-		"category": "8x35mm Charged",
-		"defname": "Ammo_8x35mmCharged_AP"
-	},
-	{
-		"abr": "8x35mmchargedcartridge(ion)",
-		"price": 3,
-		"category": "8x35mm Charged",
-		"defname": "Ammo_8x35mmCharged_Ion"
-	},
-	{
-		"abr": "30x29mmgrenade(he)",
-		"price": 5,
-		"category": "30x29mm Grenade",
-		"defname": "Ammo_30x29mmGrenade_HE"
-	},
-	{
-		"abr": "30x29mmgrenade(heairburst)",
-		"price": 6,
-		"category": "30x29mm Grenade",
-		"defname": "Ammo_30x29mmGrenade_HE_TFuzed"
-	},
-	{
-		"abr": "30x29mmgrenade(emp)",
-		"price": 8,
-		"category": "30x29mm Grenade",
-		"defname": "Ammo_30x29mmGrenade_EMP"
-	},
-	{
-		"abr": "30x29mmgrenade(smoke)",
-		"price": 4,
-		"category": "30x29mm Grenade",
-		"defname": "Ammo_30x29mmGrenade_Smoke"
-	},
-	{
-		"abr": "40x46mmgrenade(he)",
-		"price": 4,
-		"category": "40x46mm Grenade",
-		"defname": "Ammo_40x46mmGrenade_HE"
-	},
-	{
-		"abr": "40x46mmgrenade(hetimefuzed)",
-		"price": 5,
-		"category": "40x46mm Grenade",
-		"defname": "Ammo_40x46mmGrenade_HE_TFuzed"
-	},
-	{
-		"abr": "40x46mmgrenade(hedp)",
-		"price": 4,
-		"category": "40x46mm Grenade",
-		"defname": "Ammo_40x46mmGrenade_HEDP"
-	},
-	{
-		"abr": "40x46mmgrenade(emp)",
-		"price": 7,
-		"category": "40x46mm Grenade",
-		"defname": "Ammo_40x46mmGrenade_EMP"
-	},
-	{
-		"abr": "40x46mmgrenade(smoke)",
-		"price": 3,
-		"category": "40x46mm Grenade",
-		"defname": "Ammo_40x46mmGrenade_Smoke"
-	},
-	{
-		"abr": "14.5x114mmcartridge(fmj)",
-		"price": 1,
-		"category": "14.5x114mm",
-		"defname": "Ammo_145x114mm_FMJ"
-	},
-	{
-		"abr": "14.5x114mmcartridge(ap)",
-		"price": 1,
-		"category": "14.5x114mm",
-		"defname": "Ammo_145x114mm_AP"
-	},
-	{
-		"abr": "14.5x114mmcartridge(ap-i)",
-		"price": 2,
-		"category": "14.5x114mm",
-		"defname": "Ammo_145x114mm_Incendiary"
-	},
-	{
-		"abr": "14.5x114mmcartridge(he)",
-		"price": 2,
-		"category": "14.5x114mm",
-		"defname": "Ammo_145x114mm_HE"
-	},
-	{
-		"abr": "14.5x114mmcartridge(sabot)",
-		"price": 1,
-		"category": "14.5x114mm",
-		"defname": "Ammo_145x114mm_Sabot"
-	},
-	{
-		"abr": "20x102mmnatocartridge(ap)",
-		"price": 2,
-		"category": "20x102mm NATO",
-		"defname": "Ammo_20x102mmNATO_AP"
-	},
-	{
-		"abr": "20x102mmnatocartridge(ap-i)",
-		"price": 2,
-		"category": "20x102mm NATO",
-		"defname": "Ammo_20x102mmNATO_Incendiary"
-	},
-	{
-		"abr": "20x102mmnatocartridge(he)",
-		"price": 3,
-		"category": "20x102mm NATO",
-		"defname": "Ammo_20x102mmNATO_HE"
-	},
-	{
-		"abr": "20x102mmnatocartridge(sabot)",
-		"price": 2,
-		"category": "20x102mm NATO",
-		"defname": "Ammo_20x102mmNATO_Sabot"
-	},
-	{
-		"abr": "40x311mmrcartridge(ap)",
-		"price": 14,
-		"category": "40x311mmR",
-		"defname": "Ammo_40x311mmR_AP"
-	},
-	{
-		"abr": "40x311mmrcartridge(ap-i)",
-		"price": 19,
-		"category": "40x311mmR",
-		"defname": "Ammo_40x311mmR_Incendiary"
-	},
-	{
-		"abr": "40x311mmrcartridge(he)",
-		"price": 29,
-		"category": "40x311mmR",
-		"defname": "Ammo_40x311mmR_HE"
-	},
-	{
-		"abr": "40x311mmrcartridge(sabot)",
-		"price": 16,
-		"category": "40x311mmR",
-		"defname": "Ammo_40x311mmR_Sabot"
-	},
-	{
-		"abr": "boulder",
-		"price": 1,
-		"category": "Catapult ammo",
-		"defname": "Ammo_Catapult_Boulder"
-	},
-	{
-		"abr": "arrow(stone)",
-		"price": 1,
-		"category": "Arrows",
-		"defname": "Ammo_Arrow_Stone"
-	},
-	{
-		"abr": "arrow(steel)",
-		"price": 1,
-		"category": "Arrows",
-		"defname": "Ammo_Arrow_Steel"
-	},
-	{
-		"abr": "arrow(plasteel)",
-		"price": 2,
-		"category": "Arrows",
-		"defname": "Ammo_Arrow_Plasteel"
-	},
-	{
-		"abr": "arrow(venom)",
-		"price": 4,
-		"category": "Arrows",
-		"defname": "Ammo_Arrow_Venom"
-	},
-	{
-		"abr": "arrow(flame)",
-		"price": 2,
-		"category": "Arrows",
-		"defname": "Ammo_Arrow_Flame"
-	},
-	{
-		"abr": "greatarrow(stone)",
-		"price": 1,
-		"category": "Great arrows",
-		"defname": "Ammo_GreatArrow_Stone"
-	},
-	{
-		"abr": "greatarrow(steel)",
-		"price": 1,
-		"category": "Great arrows",
-		"defname": "Ammo_GreatArrow_Steel"
-	},
-	{
-		"abr": "greatarrow(plasteel)",
-		"price": 5,
-		"category": "Great arrows",
-		"defname": "Ammo_GreatArrow_Plasteel"
-	},
-	{
-		"abr": "greatarrow(venom)",
-		"price": 8,
-		"category": "Great arrows",
-		"defname": "Ammo_GreatArrow_Venom"
-	},
-	{
-		"abr": "greatarrow(flame)",
-		"price": 2,
-		"category": "Great arrows",
-		"defname": "Ammo_GreatArrow_Flame"
-	},
-	{
-		"abr": ".44magnumcartridge(fmj)",
-		"price": 1,
-		"category": ".44 Magnum",
-		"defname": "Ammo_44Magnum_FMJ"
-	},
-	{
-		"abr": ".44magnumcartridge(ap)",
-		"price": 1,
-		"category": ".44 Magnum",
-		"defname": "Ammo_44Magnum_AP"
-	},
-	{
-		"abr": ".44magnumcartridge(hp)",
-		"price": 1,
-		"category": ".44 Magnum",
-		"defname": "Ammo_44Magnum_HP"
-	},
-	{
-		"abr": ".45acpcartridge(fmj)",
-		"price": 1,
-		"category": ".45 ACP",
-		"defname": "Ammo_45ACP_FMJ"
-	},
-	{
-		"abr": ".45acpcartridge(ap)",
-		"price": 1,
-		"category": ".45 ACP",
-		"defname": "Ammo_45ACP_AP"
-	},
-	{
-		"abr": ".45acpcartridge(hp)",
-		"price": 1,
-		"category": ".45 ACP",
-		"defname": "Ammo_45ACP_HP"
-	},
-	{
-		"abr": ".303britishcartridge(fmj)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_FMJ"
-	},
-	{
-		"abr": ".303britishcartridge(ap)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_AP"
-	},
-	{
-		"abr": ".303britishcartridge(hp)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_HP"
-	},
-	{
-		"abr": ".303britishcartridge(ap-i)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_Incendiary"
-	},
-	{
-		"abr": ".303britishcartridge(he)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_HE"
-	},
-	{
-		"abr": ".303britishcartridge(sabot)",
-		"price": 1,
-		"category": ".303 British",
-		"defname": "Ammo_303British_Sabot"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(fmj)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_FMJ"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(ap)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_AP"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(hp)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_HP"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(ap-i)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_Incendiary"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(he)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_HE"
-	},
-	{
-		"abr": "5.56x45mmnatocartridge(sabot)",
-		"price": 1,
-		"category": "5.56x45mm NATO",
-		"defname": "Ammo_556x45mmNATO_Sabot"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(fmj)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_FMJ"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(ap)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_AP"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(hp)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_HP"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(ap-i)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_Incendiary"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(he)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_HE"
-	},
-	{
-		"abr": "7.62x51mmnatocartridge(sabot)",
-		"price": 1,
-		"category": "7.62x51mm NATO",
-		"defname": "Ammo_762x51mmNATO_Sabot"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(fmj)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_FMJ"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(ap)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_AP"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(hp)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_HP"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(ap-i)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_Incendiary"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(he)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_HE"
-	},
-	{
-		"abr": "7.62x54mmrcartridge(sabot)",
-		"price": 1,
-		"category": "7.62x54mmR",
-		"defname": "Ammo_762x54mmR_Sabot"
-	},
-	{
-		"abr": "rpg-32grenade(heat)",
-		"price": 121,
-		"category": "RPG-32 rockets",
-		"defname": "Ammo_RPG32Rocket_HEAT"
-	},
-	{
-		"abr": "rpg-32grenade(thermobaric)",
-		"price": 224,
-		"category": "RPG-32 rockets",
-		"defname": "Ammo_RPG32Rocket_Thermobaric"
-	},
-	{
-		"abr": "155mmhowitzershell(he)",
-		"price": 625,
-		"category": "155mm Howitzer shell",
-		"defname": "Ammo_155mmHowitzerShell_HE"
-	},
-	{
-		"abr": "155mmhowitzershell(incendiary)",
-		"price": 558,
-		"category": "155mm Howitzer shell",
-		"defname": "Ammo_155mmHowitzerShell_Incendiary"
-	},
-	{
-		"abr": "155mmhowitzershell(emp)",
-		"price": 1125,
-		"category": "155mm Howitzer shell",
-		"defname": "Ammo_155mmHowitzerShell_EMP"
-	},
-	{
-		"abr": "155mmhowitzershell(smoke)",
-		"price": 433,
-		"category": "155mm Howitzer shell",
-		"defname": "Ammo_155mmHowitzerShell_Smoke"
-	},
-	{
-		"abr": "60mmmortarshell(he)",
-		"price": 49,
-		"category": "60mm mortar shell",
-		"defname": "Shell_60mmMortar_HE"
-	},
-	{
-		"abr": "60mmmortarshell(incendiary)",
-		"price": 39,
-		"category": "60mm mortar shell",
-		"defname": "Shell_60mmMortar_Incendiary"
-	},
-	{
-		"abr": "60mmmortarshell(emp)",
-		"price": 78,
-		"category": "60mm mortar shell",
-		"defname": "Shell_60mmMortar_EMP"
-	},
-	{
-		"abr": "60mmmortarshell(foam)",
-		"price": 40,
-		"category": "60mm mortar shell",
-		"defname": "Shell_60mmMortar_Firefoam"
-	},
-	{
-		"abr": "60mmmortarshell(smoke)",
-		"price": 37,
-		"category": "60mm mortar shell",
-		"defname": "Shell_60mmMortar_Smoke"
-	},
-	{
-		"abr": "90mmcannonshell(heat)",
-		"price": 155,
-		"category": "90mm cannon shell",
-		"defname": "Ammo_90mmCannonShell_HEAT"
-	},
-	{
-		"abr": "90mmcannonshell(he)",
-		"price": 183,
-		"category": "90mm cannon shell",
-		"defname": "Ammo_90mmCannonShell_HE"
-	},
-	{
-		"abr": "90mmcannonshell(hetimefuzed)",
-		"price": 233,
-		"category": "90mm cannon shell",
-		"defname": "Ammo_90mmCannonShell_HE_TFuzed"
-	},
-	{
-		"abr": "90mmcannonshell(emp)",
-		"price": 268,
-		"category": "90mm cannon shell",
-		"defname": "Ammo_90mmCannonShell_EMP"
-	},
-	{
-		"abr": "12gaugeshell(buck)",
-		"price": 1,
-		"category": "12 gauge",
-		"defname": "Ammo_12Gauge_Buck"
-	},
-	{
-		"abr": "circuitbreaker",
-		"price": 278,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker"
-	},
-	{
-		"abr": "circuitbreaker(12k)",
-		"price": 850,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker_12k"
-	},
-	{
-		"abr": "circuitbreaker(192k)",
-		"price": 5475,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker_192k"
-	},
-	{
-		"abr": "circuitbreaker(48k)",
-		"price": 2067,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker_48k"
-	},
-	{
-		"abr": "circuitbreaker(768k)",
-		"price": 18975,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker_768k"
-	},
-	{
-		"abr": "concussiongrenade",
-		"price": 23,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeConcussion"
-	},
-	{
-		"abr": "makeshiftfuse",
-		"price": 120,
-		"category": "Power",
-		"defname": "Building_RTMakeshiftFuse"
-	},
-	{
-		"abr": "psycho",
-		"price": 12,
-		"category": "Drugs",
-		"defname": "Psycho"
-	},
-	{
-		"abr": "12gaugeshell(slug)",
-		"price": 1,
-		"category": "12 gauge",
-		"defname": "Ammo_12Gauge_Slug"
-	},
-	{
-		"abr": "12gaugeshell(bean)",
-		"price": 1,
-		"category": "12 gauge",
-		"defname": "Ammo_12Gauge_Beanbag"
-	},
-	{
-		"abr": "12gaugeshell(emp)",
-		"price": 1,
-		"category": "12 gauge",
-		"defname": "Ammo_12Gauge_ElectroSlug"
 	},
 	{
 		"abr": "skylight2x8",
@@ -7903,12 +5617,6 @@
 		"defname": "SpikecoreFloorStar_Medium"
 	},
 	{
-		"abr": "standingdarklamp",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "Darklamp"
-	},
-	{
 		"abr": "stelliccrown",
 		"price": 283,
 		"category": "Headgear",
@@ -8093,6 +5801,534 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "16kbattery",
+		"price": 1758,
+		"category": "Power",
+		"defname": "Battery16k"
+	},
+	{
+		"abr": "256kbattery",
+		"price": 17775,
+		"category": "Power",
+		"defname": "Battery256k"
+	},
+	{
+		"abr": "4kbattery",
+		"price": 692,
+		"category": "Power",
+		"defname": "Battery4k"
+	},
+	{
+		"abr": "64kbattery",
+		"price": 4725,
+		"category": "Power",
+		"defname": "Battery64k"
+	},
+	{
+		"abr": "90mmflakturret",
+		"price": 2325,
+		"category": "Security",
+		"defname": "Turret_Flak"
+	},
+	{
+		"abr": "advancednightvisiongoggles",
+		"price": 683,
+		"category": "Headgear",
+		"defname": "Apparel_AdvancedNightVision"
+	},
+	{
+		"abr": "ags-30",
+		"price": 833,
+		"category": "Security",
+		"defname": "Turret_AGSThirty"
+	},
+	{
+		"abr": "animalfeeder",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "VFE_AnimalFeeder"
+	},
+	{
+		"abr": "backpack",
+		"price": 181,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_Backpack"
+	},
+	{
+		"abr": "ballisticshield",
+		"price": 417,
+		"category": "Shields",
+		"defname": "Apparel_BallisticShield"
+	},
+	{
+		"abr": "bascinet",
+		"price": 265,
+		"category": "Headgear",
+		"defname": "Apparel_Bascinet"
+	},
+	{
+		"abr": "binoculars",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Gun_BinocularsRadio"
+	},
+	{
+		"abr": "blackboard",
+		"price": 358,
+		"category": "Production",
+		"defname": "Blackboard"
+	},
+	{
+		"abr": "ceilingfan1x1(dark)",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanSDarklight"
+	},
+	{
+		"abr": "ceilingfan2x2(dark)",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanDarklight"
+	},
+	{
+		"abr": "chargeblasterauto-turret",
+		"price": 1583,
+		"category": "Security",
+		"defname": "Turret_Blaster"
+	},
+	{
+		"abr": "chemfuelbarrel",
+		"price": 296,
+		"category": "Security",
+		"defname": "VFES_ChemfuelBarrel"
+	},
+	{
+		"abr": "circuitbreaker",
+		"price": 278,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "circuitbreaker(12k)",
+		"price": 850,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_12k"
+	},
+	{
+		"abr": "circuitbreaker(192k)",
+		"price": 5475,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_192k"
+	},
+	{
+		"abr": "circuitbreaker(48k)",
+		"price": 2067,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_48k"
+	},
+	{
+		"abr": "circuitbreaker(768k)",
+		"price": 18975,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_768k"
+	},
+	{
+		"abr": "compositevest",
+		"price": 442,
+		"category": "Armor",
+		"defname": "Apparel_CompositeVest"
+	},
+	{
+		"abr": "concussiongrenade",
+		"price": 23,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeConcussion"
+	},
+	{
+		"abr": "curtain(tribal)(1x1)",
+		"price": 88,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "curtain(tribal)(2x1)",
+		"price": 177,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalDouble"
+	},
+	{
+		"abr": "curtain(tribal)(3x1)",
+		"price": 265,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalTriple"
+	},
+	{
+		"abr": "disposablerocketlauncher",
+		"price": 152,
+		"category": "Ranged weapons",
+		"defname": "CE_DisposableRocketLauncher"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "electricrepairbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "ElectricTableRepair"
+	},
+	{
+		"abr": "firefoamgrenade",
+		"price": 19,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFirefoam"
+	},
+	{
+		"abr": "flaregun",
+		"price": 200,
+		"category": "Ranged weapons",
+		"defname": "CE_FlareGun"
+	},
+	{
+		"abr": "flashbanggrenade",
+		"price": 14,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFlashbang"
+	},
+	{
+		"abr": "fsx",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "FSX"
+	},
+	{
+		"abr": "fsxrefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "CombatExtendedFsxRefiner"
+	},
+	{
+		"abr": "gasmask",
+		"price": 193,
+		"category": "Headgear",
+		"defname": "Apparel_GasMask"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 254,
+		"category": "Ranged weapons",
+		"defname": "CE_GrenadeLauncher"
+	},
+	{
+		"abr": "gunsmithingbench",
+		"price": 775,
+		"category": "Production",
+		"defname": "GunsmithingBench"
+	},
+	{
+		"abr": "heavyartillery",
+		"price": 1408,
+		"category": "Security",
+		"defname": "Raider_Turret_Artillery"
+	},
+	{
+		"abr": "heavyauto-turret",
+		"price": 3583,
+		"category": "Security",
+		"defname": "Turret_Heavy"
+	},
+	{
+		"abr": "improvisedgasmask",
+		"price": 156,
+		"category": "Headgear",
+		"defname": "Apparel_ImprovGasMask"
+	},
+	{
+		"abr": "kpvmachinegun",
+		"price": 1383,
+		"category": "Security",
+		"defname": "Turret_KPV"
+	},
+	{
+		"abr": "landmine",
+		"price": 236,
+		"category": "Security",
+		"defname": "VFES_Landmine"
+	},
+	{
+		"abr": "loadingbench",
+		"price": 775,
+		"category": "Production",
+		"defname": "AmmoBench"
+	},
+	{
+		"abr": "m240b",
+		"price": 800,
+		"category": "Security",
+		"defname": "Turret_M240B"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": 120,
+		"category": "Power",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "mediumauto-turret",
+		"price": 1250,
+		"category": "Security",
+		"defname": "Turret_Medium"
+	},
+	{
+		"abr": "meleeshield",
+		"price": 257,
+		"category": "Shields",
+		"defname": "Apparel_MeleeShield"
+	},
+	{
+		"abr": "nightvisionmonocular",
+		"price": 475,
+		"category": "Headgear",
+		"defname": "Apparel_SimpleNightVision"
+	},
+	{
+		"abr": "poweredexoframe",
+		"price": 1708,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_ExoFrame"
+	},
+	{
+		"abr": "prometheum",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Prometheum"
+	},
+	{
+		"abr": "psychicpylon",
+		"price": 2167,
+		"category": "Special",
+		"defname": "VFES_PsychicPylon"
+	},
+	{
+		"abr": "psycho",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "Psycho"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "repairkit",
+		"price": 30,
+		"category": "Manufactured",
+		"defname": "RepairKit"
+	},
+	{
+		"abr": "schooltable",
+		"price": 281,
+		"category": "Production",
+		"defname": "SchoolTable"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "smokegrenade",
+		"price": 17,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "standingdarklamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "Darklamp"
+	},
+	{
+		"abr": "standinglamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "standinglamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "standinglamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "stickbomb",
+		"price": 43,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeStickBomb"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 248,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "tribalbackpack",
+		"price": 97,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_TribalBackpack"
+	},
+	{
+		"abr": "walldarklight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
 		"abr": "count-downactivator",
@@ -8491,17 +6727,1169 @@
 		"defname": "Autobong"
 	},
 	{
+		"abr": "door(2x1)",
+		"price": 177,
+		"category": "",
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 265,
+		"category": "",
+		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "autodoor(2x1)",
+		"price": 650,
+		"category": "",
+		"defname": "PH_AutodoorDouble"
+	},
+	{
+		"abr": "autodoor(3x1)",
+		"price": 967,
+		"category": "",
+		"defname": "PH_AutodoorTriple"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 375,
+		"category": "",
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 350,
+		"category": "",
+		"defname": "PH_GateDoubleThick"
+	},
+	{
+		"abr": "blastdoor(1x1)",
+		"price": 600,
+		"category": "",
+		"defname": "PH_DoorBlastSingle"
+	},
+	{
+		"abr": "blastdoor(2x1)",
+		"price": 1150,
+		"category": "",
+		"defname": "PH_DoorBlastDoor"
+	},
+	{
+		"abr": "blastdoor(3x2)",
+		"price": 2300,
+		"category": "",
+		"defname": "PH_DoorThickBlastDoor"
+	},
+	{
+		"abr": "doorbutton",
+		"price": 86,
+		"category": "",
+		"defname": "PH_DoorButton"
+	},
+	{
+		"abr": "doorlever",
+		"price": 70,
+		"category": "",
+		"defname": "PH_DoorLever"
+	},
+	{
+		"abr": "remotedoor(1x1)",
+		"price": 206,
+		"category": "",
+		"defname": "PH_DoorRemoteSingle"
+	},
+	{
+		"abr": "remotedoor(2x1)",
+		"price": 408,
+		"category": "",
+		"defname": "PH_DoorRemoteDouble"
+	},
+	{
+		"abr": "remotedoor(3x1)",
+		"price": 617,
+		"category": "",
+		"defname": "PH_DoorRemoteTriple"
+	},
+	{
+		"abr": "rusticwindow",
+		"price": 88,
+		"category": "",
+		"defname": "SimpleOpenWindow"
+	},
+	{
+		"abr": "window",
+		"price": 118,
+		"category": "",
+		"defname": "OpenWindow"
+	},
+	{
+		"abr": "largewindow",
+		"price": 295,
+		"category": "",
+		"defname": "LargeOpenWindow"
+	},
+	{
+		"abr": "hugewindow",
+		"price": 658,
+		"category": "",
+		"defname": "HugeOpenWindow"
+	},
+	{
+		"abr": "reinforcedwindow",
+		"price": 189,
+		"category": "",
+		"defname": "ReinforcedOpenWindow"
+	},
+	{
+		"abr": "largereinforcedwindow",
+		"price": 442,
+		"category": "",
+		"defname": "LargeReinforcedOpenWindow"
+	},
+	{
+		"abr": "rocketturret",
+		"price": 2508,
+		"category": "",
+		"defname": "VFES_Turret_TriRocket"
+	},
+	{
+		"abr": "barrier",
+		"price": 39,
+		"category": "",
+		"defname": "VFES_Barrier"
+	},
+	{
+		"abr": "shortwall",
+		"price": 14,
+		"category": "",
+		"defname": "VFES_ShortWall"
+	},
+	{
 		"abr": "sentinel",
 		"price": 2525,
 		"category": "",
 		"defname": "RimatomicsShieldGenerator"
 	},
 	{
+		"abr": "jelliedchemfuel",
+		"price": 1,
+		"category": "Flamethrower fuel",
+		"defname": "Ammo_Flamethrower_Napalm"
+	},
+	{
+		"abr": "jelliedprometheum",
+		"price": 1,
+		"category": "Flamethrower fuel",
+		"defname": "Ammo_Flamethrower_Prometheum"
+	},
+	{
+		"abr": "flareround",
+		"price": 1,
+		"category": "Flare",
+		"defname": "Ammo_Flare"
+	},
+	{
+		"abr": "12mmrailguncartridge(sabot)",
+		"price": 1,
+		"category": "12mm Railgun",
+		"defname": "Ammo_12mmRailgun_Sabot"
+	},
+	{
+		"abr": "12x64mmchargedcartridge",
+		"price": 1,
+		"category": "12x64mm Charged",
+		"defname": "Ammo_12x64mmCharged"
+	},
+	{
+		"abr": "164x284mmdemolitionshell",
+		"price": 18,
+		"category": "164x284mm Demolition Shell",
+		"defname": "Ammo_164x284mmDemo"
+	},
+	{
+		"abr": "30x64mmfuelcell(incendiary)",
+		"price": 6,
+		"category": "30x64mm Fuel Cell",
+		"defname": "Ammo_30x64mmFuel_Incendiary"
+	},
+	{
+		"abr": "30x64mmfuelcell(thermobaric)",
+		"price": 10,
+		"category": "30x64mm Fuel Cell",
+		"defname": "Ammo_30x64mmFuel_Thermobaric"
+	},
+	{
+		"abr": "30x64mmfuelcell(foam)",
+		"price": 6,
+		"category": "30x64mm Fuel Cell",
+		"defname": "Ammo_30x64mmFuel_Foam"
+	},
+	{
+		"abr": "5x35mmchargedcartridge",
+		"price": 1,
+		"category": "5x35mm Charged",
+		"defname": "Ammo_5x35mmCharged"
+	},
+	{
 		"abr": "6x22mmchargedcartridge",
 		"price": 1,
 		"category": "6x22mm Charged",
 		"defname": "Ammo_6x22mmCharged"
+	},
+	{
+		"abr": "6x24mmchargedcartridge",
+		"price": 1,
+		"category": "6x24mm Charged",
+		"defname": "Ammo_6x24mmCharged"
+	},
+	{
+		"abr": "6x24mmchargedcartridge(conc.)",
+		"price": 1,
+		"category": "6x24mm Charged",
+		"defname": "Ammo_6x24mmCharged_AP"
+	},
+	{
+		"abr": "6x24mmchargedcartridge(ion)",
+		"price": 1,
+		"category": "6x24mm Charged",
+		"defname": "Ammo_6x24mmCharged_Ion"
+	},
+	{
+		"abr": "80x256mmfuelcell(incendiary)",
+		"price": 18,
+		"category": "80x256mm Fuel Cell",
+		"defname": "Ammo_80x256mmFuel_Incendiary"
+	},
+	{
+		"abr": "8x35mmchargedcartridge",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(conc.)",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_AP"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(ion)",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_Ion"
+	},
+	{
+		"abr": "30x29mmgrenade(he)",
+		"price": 5,
+		"category": "30x29mm Grenade",
+		"defname": "Ammo_30x29mmGrenade_HE"
+	},
+	{
+		"abr": "30x29mmgrenade(heairburst)",
+		"price": 6,
+		"category": "30x29mm Grenade",
+		"defname": "Ammo_30x29mmGrenade_HE_TFuzed"
+	},
+	{
+		"abr": "30x29mmgrenade(emp)",
+		"price": 8,
+		"category": "30x29mm Grenade",
+		"defname": "Ammo_30x29mmGrenade_EMP"
+	},
+	{
+		"abr": "30x29mmgrenade(smoke)",
+		"price": 4,
+		"category": "30x29mm Grenade",
+		"defname": "Ammo_30x29mmGrenade_Smoke"
+	},
+	{
+		"abr": "40x46mmgrenade(he)",
+		"price": 4,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_HE"
+	},
+	{
+		"abr": "40x46mmgrenade(hetimefuzed)",
+		"price": 5,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_HE_TFuzed"
+	},
+	{
+		"abr": "40x46mmgrenade(hedp)",
+		"price": 4,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_HEDP"
+	},
+	{
+		"abr": "40x46mmgrenade(emp)",
+		"price": 7,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_EMP"
+	},
+	{
+		"abr": "40x46mmgrenade(smoke)",
+		"price": 3,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_Smoke"
+	},
+	{
+		"abr": "14.5x114mmcartridge(fmj)",
+		"price": 1,
+		"category": "14.5x114mm",
+		"defname": "Ammo_145x114mm_FMJ"
+	},
+	{
+		"abr": "14.5x114mmcartridge(ap)",
+		"price": 1,
+		"category": "14.5x114mm",
+		"defname": "Ammo_145x114mm_AP"
+	},
+	{
+		"abr": "14.5x114mmcartridge(ap-i)",
+		"price": 2,
+		"category": "14.5x114mm",
+		"defname": "Ammo_145x114mm_Incendiary"
+	},
+	{
+		"abr": "14.5x114mmcartridge(he)",
+		"price": 2,
+		"category": "14.5x114mm",
+		"defname": "Ammo_145x114mm_HE"
+	},
+	{
+		"abr": "14.5x114mmcartridge(sabot)",
+		"price": 1,
+		"category": "14.5x114mm",
+		"defname": "Ammo_145x114mm_Sabot"
+	},
+	{
+		"abr": "20x102mmnatocartridge(ap)",
+		"price": 2,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_AP"
+	},
+	{
+		"abr": "20x102mmnatocartridge(ap-i)",
+		"price": 2,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_Incendiary"
+	},
+	{
+		"abr": "20x102mmnatocartridge(he)",
+		"price": 3,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_HE"
+	},
+	{
+		"abr": "20x102mmnatocartridge(sabot)",
+		"price": 2,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_Sabot"
+	},
+	{
+		"abr": "40x311mmrcartridge(ap)",
+		"price": 14,
+		"category": "40x311mmR",
+		"defname": "Ammo_40x311mmR_AP"
+	},
+	{
+		"abr": "40x311mmrcartridge(ap-i)",
+		"price": 19,
+		"category": "40x311mmR",
+		"defname": "Ammo_40x311mmR_Incendiary"
+	},
+	{
+		"abr": "40x311mmrcartridge(he)",
+		"price": 29,
+		"category": "40x311mmR",
+		"defname": "Ammo_40x311mmR_HE"
+	},
+	{
+		"abr": "40x311mmrcartridge(sabot)",
+		"price": 16,
+		"category": "40x311mmR",
+		"defname": "Ammo_40x311mmR_Sabot"
+	},
+	{
+		"abr": "boulder",
+		"price": 1,
+		"category": "Catapult ammo",
+		"defname": "Ammo_Catapult_Boulder"
+	},
+	{
+		"abr": "arrow(stone)",
+		"price": 1,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Stone"
+	},
+	{
+		"abr": "arrow(steel)",
+		"price": 1,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Steel"
+	},
+	{
+		"abr": "arrow(plasteel)",
+		"price": 2,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Plasteel"
+	},
+	{
+		"abr": "arrow(venom)",
+		"price": 4,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Venom"
+	},
+	{
+		"abr": "arrow(flame)",
+		"price": 2,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Flame"
+	},
+	{
+		"abr": "greatarrow(stone)",
+		"price": 1,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Stone"
+	},
+	{
+		"abr": "greatarrow(steel)",
+		"price": 1,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Steel"
+	},
+	{
+		"abr": "greatarrow(plasteel)",
+		"price": 5,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Plasteel"
+	},
+	{
+		"abr": "greatarrow(venom)",
+		"price": 8,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Venom"
+	},
+	{
+		"abr": "greatarrow(flame)",
+		"price": 2,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Flame"
+	},
+	{
+		"abr": ".44magnumcartridge(fmj)",
+		"price": 1,
+		"category": ".44 Magnum",
+		"defname": "Ammo_44Magnum_FMJ"
+	},
+	{
+		"abr": ".44magnumcartridge(ap)",
+		"price": 1,
+		"category": ".44 Magnum",
+		"defname": "Ammo_44Magnum_AP"
+	},
+	{
+		"abr": ".44magnumcartridge(hp)",
+		"price": 1,
+		"category": ".44 Magnum",
+		"defname": "Ammo_44Magnum_HP"
+	},
+	{
+		"abr": ".45acpcartridge(fmj)",
+		"price": 1,
+		"category": ".45 ACP",
+		"defname": "Ammo_45ACP_FMJ"
+	},
+	{
+		"abr": ".45acpcartridge(ap)",
+		"price": 1,
+		"category": ".45 ACP",
+		"defname": "Ammo_45ACP_AP"
+	},
+	{
+		"abr": ".45acpcartridge(hp)",
+		"price": 1,
+		"category": ".45 ACP",
+		"defname": "Ammo_45ACP_HP"
+	},
+	{
+		"abr": ".303britishcartridge(fmj)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_FMJ"
+	},
+	{
+		"abr": ".303britishcartridge(ap)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_AP"
+	},
+	{
+		"abr": ".303britishcartridge(hp)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_HP"
+	},
+	{
+		"abr": ".303britishcartridge(ap-i)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_Incendiary"
+	},
+	{
+		"abr": ".303britishcartridge(he)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_HE"
+	},
+	{
+		"abr": ".303britishcartridge(sabot)",
+		"price": 1,
+		"category": ".303 British",
+		"defname": "Ammo_303British_Sabot"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(fmj)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_FMJ"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(ap)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_AP"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(hp)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_HP"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(ap-i)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_Incendiary"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(he)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_HE"
+	},
+	{
+		"abr": "5.56x45mmnatocartridge(sabot)",
+		"price": 1,
+		"category": "5.56x45mm NATO",
+		"defname": "Ammo_556x45mmNATO_Sabot"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(fmj)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_FMJ"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(ap)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_AP"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(hp)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_HP"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(ap-i)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_Incendiary"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(he)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_HE"
+	},
+	{
+		"abr": "7.62x51mmnatocartridge(sabot)",
+		"price": 1,
+		"category": "7.62x51mm NATO",
+		"defname": "Ammo_762x51mmNATO_Sabot"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(fmj)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_FMJ"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(ap)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_AP"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(hp)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_HP"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(ap-i)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_Incendiary"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(he)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_HE"
+	},
+	{
+		"abr": "7.62x54mmrcartridge(sabot)",
+		"price": 1,
+		"category": "7.62x54mmR",
+		"defname": "Ammo_762x54mmR_Sabot"
+	},
+	{
+		"abr": "rpg-32grenade(heat)",
+		"price": 121,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_HEAT"
+	},
+	{
+		"abr": "rpg-32grenade(thermobaric)",
+		"price": 224,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_Thermobaric"
+	},
+	{
+		"abr": "155mmhowitzershell(he)",
+		"price": 708,
+		"category": "155mm Howitzer shell",
+		"defname": "Ammo_155mmHowitzerShell_HE"
+	},
+	{
+		"abr": "155mmhowitzershell(incendiary)",
+		"price": 558,
+		"category": "155mm Howitzer shell",
+		"defname": "Ammo_155mmHowitzerShell_Incendiary"
+	},
+	{
+		"abr": "155mmhowitzershell(emp)",
+		"price": 1125,
+		"category": "155mm Howitzer shell",
+		"defname": "Ammo_155mmHowitzerShell_EMP"
+	},
+	{
+		"abr": "155mmhowitzershell(smoke)",
+		"price": 433,
+		"category": "155mm Howitzer shell",
+		"defname": "Ammo_155mmHowitzerShell_Smoke"
+	},
+	{
+		"abr": "60mmmortarshell(he)",
+		"price": 49,
+		"category": "60mm mortar shell",
+		"defname": "Shell_60mmMortar_HE"
+	},
+	{
+		"abr": "60mmmortarshell(incendiary)",
+		"price": 39,
+		"category": "60mm mortar shell",
+		"defname": "Shell_60mmMortar_Incendiary"
+	},
+	{
+		"abr": "60mmmortarshell(emp)",
+		"price": 78,
+		"category": "60mm mortar shell",
+		"defname": "Shell_60mmMortar_EMP"
+	},
+	{
+		"abr": "60mmmortarshell(foam)",
+		"price": 40,
+		"category": "60mm mortar shell",
+		"defname": "Shell_60mmMortar_Firefoam"
+	},
+	{
+		"abr": "60mmmortarshell(smoke)",
+		"price": 37,
+		"category": "60mm mortar shell",
+		"defname": "Shell_60mmMortar_Smoke"
+	},
+	{
+		"abr": "90mmcannonshell(heat)",
+		"price": 155,
+		"category": "90mm cannon shell",
+		"defname": "Ammo_90mmCannonShell_HEAT"
+	},
+	{
+		"abr": "90mmcannonshell(he)",
+		"price": 183,
+		"category": "90mm cannon shell",
+		"defname": "Ammo_90mmCannonShell_HE"
+	},
+	{
+		"abr": "90mmcannonshell(hetimefuzed)",
+		"price": 233,
+		"category": "90mm cannon shell",
+		"defname": "Ammo_90mmCannonShell_HE_TFuzed"
+	},
+	{
+		"abr": "90mmcannonshell(emp)",
+		"price": 268,
+		"category": "90mm cannon shell",
+		"defname": "Ammo_90mmCannonShell_EMP"
+	},
+	{
+		"abr": "12gaugeshell(buck)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "Ammo_12Gauge_Buck"
+	},
+	{
+		"abr": "12gaugeshell(slug)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "Ammo_12Gauge_Slug"
+	},
+	{
+		"abr": "12gaugeshell(bean)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "Ammo_12Gauge_Beanbag"
+	},
+	{
+		"abr": "12gaugeshell(emp)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "Ammo_12Gauge_ElectroSlug"
+	},
+	{
+		"abr": "barbedwire",
+		"price": 6,
+		"category": "",
+		"defname": "BarbedWire"
+	},
+	{
+		"abr": "embrasure",
+		"price": 18,
+		"category": "",
+		"defname": "Embrasure"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "arcademachine",
+		"price": 650,
+		"category": "Recreation",
+		"defname": "Joy_Arcade"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "bench",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Bench"
+	},
+	{
+		"abr": "countertop",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Table_Counter"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "dartsboard",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "Joy_DartsBoard"
+	},
+	{
+		"abr": "drugcabinet",
+		"price": 700,
+		"category": "Misc",
+		"defname": "VFE_DrugCabinet"
+	},
+	{
+		"abr": "electricbutcher",
+		"price": 492,
+		"category": "Production",
+		"defname": "VFE_TableButcherElectric"
+	},
+	{
+		"abr": "electricdruglab",
+		"price": 1292,
+		"category": "Production",
+		"defname": "VFE_TableDrugLabElectric"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 1033,
+		"category": "Production",
+		"defname": "VFE_TableStonecutterElectric"
+	},
+	{
+		"abr": "ergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "ergonomicchair",
+		"price": 858,
+		"category": "Furniture",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "ergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
+		"abr": "fabricationcabinet",
+		"price": 433,
+		"category": "Misc",
+		"defname": "VFE_FabricationCabinet"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "Misc_FileCabinet"
+	},
+	{
+		"abr": "fueledsmelter",
+		"price": 550,
+		"category": "Production",
+		"defname": "VFE_FueledSmelter"
+	},
+	{
+		"abr": "gasfloodlight",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "VPE_GasFloodlight"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 483,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengassmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "VPE_GasSmithy"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "industrialradio",
+		"price": 433,
+		"category": "Recreation",
+		"defname": "Radio_Industrial"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": 296,
+		"category": "Misc",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "kitchensinkcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_KitchenSinkCabinet"
+	},
+	{
+		"abr": "lampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_LightEndTable"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largebin",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "Bin_Large"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "longwaveradio",
+		"price": 1033,
+		"category": "Recreation",
+		"defname": "Radio_Spacer"
+	},
+	{
+		"abr": "machiningcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_MachiningCabinet"
+	},
+	{
+		"abr": "moderncomputer",
+		"price": 1100,
+		"category": "Recreation",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "modernlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernLamp"
+	},
+	{
+		"abr": "oldcomputer",
+		"price": 517,
+		"category": "Recreation",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "operatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_Streetlamp"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "punchingbag",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "roulettetable",
+		"price": 708,
+		"category": "Furniture",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1583,
+		"category": "Furniture",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "royalchair",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": 1092,
+		"category": "Furniture",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Furniture",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "shelf(1x1)",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "simplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "slabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallbin",
+		"price": 136,
+		"category": "Furniture",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smithingcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "squarechair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "standinggaslamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasLamp"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
 	}
 	],
-	"total": 1417
+	"total": 1320
 }
